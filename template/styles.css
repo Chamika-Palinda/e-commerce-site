@@ -11,6 +11,10 @@ body{
     font-family: Helvetica,Arial,sans-serif;
 }
 
+#root{
+    height: 100%;
+}
+
 /* Layout */
 
 .grid-container{

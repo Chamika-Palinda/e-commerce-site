@@ -87,6 +87,10 @@ a.brand{
   align-items: center;
 }
 
+.row.top{
+  align-items: flex-start;
+}
+
 .row.center{
   justify-content: center;
 }
@@ -129,4 +133,8 @@ img.medium{
 .rating span{
   color: #f0c040;
   margin: 0.1rem;
+}
+
+.rating span:last-child{
+  color: #404040;
 }

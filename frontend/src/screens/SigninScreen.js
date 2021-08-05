@@ -12,7 +12,6 @@ export default function SigninScreen() {
         //TODO: sigin action
     }
 
-
   return (
     <div>
       <form className="form" onSubmit={submitHandler}>
